@@ -1,5 +1,5 @@
 # SwitchButton
-SwitchButton.An *beautiful+lightweight+custom-style-easy* switch widget for Android,minSdkVersion >= 11<br>
+SwitchButton.An *beautiful+lightweight+custom-style-easy* switch widget for Android,minSdkVersion >= 16<br>
 issues welcome~<br>
 ![](21879.gif)<br>
 
@@ -22,7 +22,7 @@ repositories {
 ...
 
 dependencies {
-    compile 'com.github.zcweng:switch-button:0.0.3@aar'
+    implementation 'com.github.hardikpatel679:SwitchButton:v2.0'
 }
 ```
 
